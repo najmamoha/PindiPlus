@@ -1,0 +1,13 @@
+.footer{
+    display: flex;
+    width: 100%;
+    background-color: #e0dcdc;
+}
+.column{
+    flex: 1;
+    padding: 20px;
+    text-decoration: none;
+}
+.links{
+text-decoration: none;
+}

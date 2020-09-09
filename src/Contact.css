@@ -1,0 +1,28 @@
+.boder{
+    display:flex;
+    justify-content: space-evenly;
+    padding: 30px;
+    
+}
+.bordari{
+    box-shadow: 1px 1px 20px 1px #888888;
+    padding: 10px 20px;
+    margin: 10px;
+    flex:1;
+    text-align: left;
+}
+.email{
+    padding: 20px 20px;
+    box-shadow: 1px 1px 20px 1px #888888;
+    flex: 1;
+    margin: 0px 50px;
+}
+.email p{
+    text-align: center;
+    margin: 0px 50px;
+}
+.gmail{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 10px 0px;
+}
