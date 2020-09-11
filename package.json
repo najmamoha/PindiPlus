@@ -13,9 +13,12 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
 <<<<<<< HEAD
+<<<<<<< HEAD
     "react-router-dom": "^5.2.0",
 =======
 >>>>>>> 08e16b44a7e00f1072fb9536d1c6117befa40c49
+=======
+>>>>>>> parent of 2da2edb... pushing our work
     "react-scripts": "3.4.1"
   },
   "scripts": {
